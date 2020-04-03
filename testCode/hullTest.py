@@ -1,3 +1,6 @@
+"""
+凸包算法
+"""
 import matplotlib.pyplot as plt
 import math
 
