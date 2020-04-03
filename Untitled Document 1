@@ -1,0 +1,5 @@
+process predicted!!!
+image index:	0
+Number of points (without any pruning):	4909			Time:	16893.550157546997ms
+
+Number of points (EPE + Pruning):	172			Time:	376.91426277160645ms	(EPE time:17.735719680786133ms		Pruning time:2.3250579833984375ms		convex time:356.8534851074219ms)
