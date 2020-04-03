@@ -1,0 +1,14 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000008.jpg</filename>
+	<path>./dataset/round4/test/37/JPEGImages/000008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
